@@ -2,6 +2,8 @@
 
 A full-featured, production-ready Flutter travel booking app similar to Booking.com.
 
+![TravelMate App Preview](./app_preview.jpeg)
+
 ---
 
 ## 🚀 Quick Start
@@ -136,6 +138,8 @@ Future<List<Hotel>> fetchHotels({String? query, double? maxPrice}) async {
 ---
 
 ## 📱 Screens Preview
+
+> See the full visual walkthrough in the preview image above 👆
 
 1. **Splash** → Animated logo + tagline
 2. **Home** → Hero banner, search, destinations, hotels, packages  
